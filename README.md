@@ -1,4 +1,4 @@
-## 📊 Insights de Performance — Análise de Dados para Marketing.
+## 📊 Insights de Performance - Análise de Dados para Marketing.
 
 Este projeto tem como objetivo analisar dados de performance de canais digitais, identificar padrões, tendências e oportunidades de otimização, transformando dados brutos em insights acionáveis para tomada de decisão.
 O notebook foi desenvolvido com foco em boas práticas de análise de dados, organização do código e clareza na comunicação dos resultados — ideal para contextos de marketing, produto e negócios.
